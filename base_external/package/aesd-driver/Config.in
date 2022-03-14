@@ -1,5 +1,5 @@
 
-config BR2_PACKAGE_AESD_ASSIGNMENTS
+config BR2_PACKAGE_AESD_DRIVER
 	bool "aesd-driver"
 	help
 	  loads the driver modules
