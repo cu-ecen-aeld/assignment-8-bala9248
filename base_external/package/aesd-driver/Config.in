@@ -1,0 +1,5 @@
+
+config BR2_PACKAGE_AESD_ASSIGNMENTS
+	bool "aesd-driver"
+	help
+	  loads the driver modules
